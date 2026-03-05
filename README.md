@@ -17,7 +17,7 @@ Color rules:
 ## Edition
 
 - Edition: Free (no admin settings page)
-- Release: `0.2.0-free`
+- Release: `0.2.3-free`
 
 ## Author
 
